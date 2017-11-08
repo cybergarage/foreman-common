@@ -2,16 +2,16 @@
 # Use of this source code is governed by a BSD-style
 # license that can be found in the LICENSE file.
 
-error_code_unknown,0,"Unknown Error"
+unknown,0,"Unknown Error"
 
-error_code_bad_destination,300,"Bad Destination"
+bad_destination,300,"Bad Destination"
 
-error_code_invalid_request,400,"Invalid Request"
-error_code_method_not_found,401,"Method not found"
-error_code_invalid_params,402,"Invalid params"
-error_code_internal_error,600,"Internal error"
+invalid_request,400,"Invalid Request"
+method_not_found,401,"Method not found"
+invalid_params,402,"Invalid params"
+internal_error,600,"Internal error"
 
-error_code_script_engine_internal_error,700,"Script Engine Internal Error"
-error_code_script_engine_not_found,701,"Script Engine Not Found"
-error_code_script_compile_error,702,"Script Compile Error"
-error_code_script_runtime_error,703,"Script Runtime Error"
+script_engine_internal_error,700,"Script Engine Internal Error"
+script_engine_not_found,701,"Script Engine Not Found"
+script_compile_error,702,"Script Compile Error"
+script_runtime_error,703,"Script Runtime Error"
